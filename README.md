@@ -25,16 +25,19 @@ Previous conversations can be accessed to maintain context and improve the user 
 4. Real-Time Display
 The conversation updates instantly within the Streamlit application.
 Both current and historical messages are presented in an organized chat interface.
+
 **Technologies Used**
 Python
 Google Gemini API (Google Generative AI)
 Streamlit
 Session State / Local Storage (for conversation management)
+
 **Requirements**
 Python 3.x
 Streamlit
 Google Generative AI SDK
 Gemini API Key
+
 **Results**
 
 The application delivers an efficient AI chat experience with persistent conversation history, allowing users to continue previous discussions without losing context. Its lightweight architecture and simple deployment make it suitable for personal assistants, educational tools, customer support prototypes, and AI-powered web applications.
